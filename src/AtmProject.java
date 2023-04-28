@@ -7,5 +7,8 @@ public class AtmProject {
 
         //Version
 
+        System.out.println("Learn Java earn Money");
+        //version 3
+
     }
 }
