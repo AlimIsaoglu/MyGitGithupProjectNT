@@ -19,5 +19,8 @@ public class AtmProject {
         System.out.println("Ali branchi kodlarini tamamladi");
         //Versin Ali1
 
+        System.out.println("Bazi codeler yazdim");
+        //Ali2
+
     }
 }
