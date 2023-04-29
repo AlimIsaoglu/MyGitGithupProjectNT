@@ -22,5 +22,7 @@ public class AtmProject {
         System.out.println("Bazi codeler yazdim");
         //Ali2
 
+//localde degisiklik ypatim
+
     }
 }
