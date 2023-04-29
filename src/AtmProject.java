@@ -23,6 +23,7 @@ public class AtmProject {
         //Ali2
 
 //localde degisiklik ypatim
+        // remote da degisiklik yaptim
 
     }
 }
